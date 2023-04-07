@@ -7,7 +7,7 @@ Pong-AI is an open source implementation of the classic Pong game with AI oppone
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/pong-ai.git
+git clone https://github.com/pepefeliblu/pong-ai.git
 ```
 
 2. Navigate to the project directory and install dependencies:
