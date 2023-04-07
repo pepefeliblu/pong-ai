@@ -23,7 +23,7 @@ yarn install
 yarn start
 ```
 
-The game should now be accessible in your browser at `http://localhost:1234`.
+The game should now be accessible in your browser at `http://localhost:8080`.
 
 ## License
 
